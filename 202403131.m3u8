@@ -3,7 +3,7 @@
 	"lives": [{
 		    "name": "live",
 		    "type": 0,
-		    "url": "https://gitee.com/uahioacnao/tvs/raw/master/tv/ysclive.txt",
+		    "url": "./tv/ysclive.txt",
 		    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
                     "logo": "https://epg.112114.xyz/logo/{name}.png"
 	    }],
